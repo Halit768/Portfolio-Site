@@ -15,6 +15,6 @@ Bu proje, kişisel bir portfolio sitesi oluşturmanıza ve aynı zamanda sertifi
 - **İletişim Formu:** Ziyaretçilerinizin size mesaj gönderebileceği bir iletişim formu.
 
 
-<h1> Ekran Görüntüsü </h1>>
+<h1> Ekran Görüntüsü </h1>
 
 ![](WebSitemG.gif)

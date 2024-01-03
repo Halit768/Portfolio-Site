@@ -17,4 +17,4 @@ Bu proje, kişisel bir portfolio sitesi oluşturmanıza ve aynı zamanda sertifi
 
 <h1> Ekran Görüntüsü </h1>
 
-![](.gif/WebSitem.gif)
+![](gif/WebSitem.gif)
